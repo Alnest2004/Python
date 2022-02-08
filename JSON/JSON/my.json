@@ -1,0 +1,23 @@
+{
+   "response": {
+      "count": 5961878,
+      "items": [
+         {
+            "first_name": "Елизавета",
+            "last_name": "Сопова",
+            "can_access_closed": true,
+            "likes": 184,
+            "a": null,
+            "Now": "02/11/21"
+         },
+         {
+            "first_name": "Роман",
+            "last_name": "Малышев",
+            "can_access_closed": true,
+            "likes": 166,
+            "a": null,
+            "Now": "02/11/21"
+         }
+      ]
+   }
+}
